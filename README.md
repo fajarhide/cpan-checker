@@ -1,4 +1,6 @@
-Tools CPAN
-----------
+Checklist Module CPAN on Server
+===============================
 
-listmod.pl
+Checklist v.0.2
+
+by fajarhide 2014
