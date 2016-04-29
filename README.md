@@ -1,6 +1,8 @@
 Checklist Module CPAN on Server
 ===============================
 
-Checklist v.0.2
+If you want finding module perl on your server without using cpan 
 
-by fajarhide 2014
+Version
+-------
+v.0.2 by fajarhide, 2014
